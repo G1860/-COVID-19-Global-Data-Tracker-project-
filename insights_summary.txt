@@ -1,0 +1,38 @@
+COVID-19 Country-Level Snapshot Summary
+
+Top 10 Countries by Confirmed Cases:
+
+Country/Region  Confirmed
+            US    4290259
+        Brazil    2442375
+         India    1480073
+        Russia     816680
+  South Africa     452529
+        Mexico     395489
+          Peru     389717
+         Chile     347923
+United Kingdom     301708
+          Iran     293606
+
+Top 10 Countries by Deaths:
+
+Country/Region  Deaths
+            US  148011
+        Brazil   87618
+United Kingdom   45844
+        Mexico   44022
+         Italy   35112
+         India   33408
+        France   30212
+         Spain   28432
+          Peru   18418
+          Iran   15912
+
+Best Recovery Rates (%):
+
+Country/Region  Recovery Rate (%)
+      Dominica         100.000000
+      Holy See         100.000000
+       Grenada         100.000000
+      Djibouti          98.379126
+       Iceland          98.327940
